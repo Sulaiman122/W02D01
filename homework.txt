@@ -1,0 +1,4 @@
+Q1:How do we know type of array is really array or object?
+
+A1: We can check type of array by using isArray() method such as:
+var isArr = Array.isArray(data);
